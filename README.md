@@ -4,6 +4,8 @@
 
 > Try it out, improve it, practice more and have fun! ✌️
 
+<img src="https://github.com/pranaypatel512/pranaypatel512/blob/master/social/pranaypatel512_github_profile.svg" >
+
 ## About me
 
 * 👨‍ I’m an Android Engineer, living in Ahmedabad.
