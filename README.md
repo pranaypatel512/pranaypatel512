@@ -13,16 +13,24 @@
 * ☕ Tea lover
 
 * 👨‍🍳 Love to prepares food in my leisure time.
+<br>
 
 ## What I am doing
 
 * ✒️ I write stuff at [booleancoder.com](https://booleancoder.com/) and [Medium](https://medium.com/@pranaypatel).
 
-* 🙌 I mainly write about Android, Kotlin, and Firebase. I currently learning Flutter.
-
-* 🐤 Tweeting [@pranaypatel_](https://twitter.com/pranaypatel_)
+* 🙌 I mainly do work on about Android, Kotlin, Firebase, BLE and custom hardware apps . I currently learning Flutter. Public Speaker 🗣️
 
 * 📫  Drop an email on iampranaypatel@gmail.com
+
+<br>
+
+## Social
+
+[<img src="https://github.com/pranaypatel512/pranaypatel512/blob/master/social/twitter.svg" height="22" width="22">](https://twitter.com/pranaypatel_) &nbsp;&nbsp;
+[<img src="https://github.com/pranaypatel512/pranaypatel512/blob/master/social/linkedin.svg" height="22" width="22">](https://www.linkedin.com/in/pranaypatel512/) &nbsp;&nbsp;
+[<img src="https://github.com/pranaypatel512/pranaypatel512/blob/master/social/medium.svg" height="22" width="22">](https://medium.com/@pranaypatel) &nbsp;&nbsp;
+[<img src="https://github.com/pranaypatel512/pranaypatel512/blob/master/social/stackoverflow.svg" height="22" width="22">](https://twitter.com/pranaypatel_) &nbsp;&nbsp;
 
 <br>
 
