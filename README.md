@@ -32,7 +32,7 @@
 [<img src="https://github.com/pranaypatel512/pranaypatel512/blob/master/social/twitter.svg" height="22" width="22">](https://twitter.com/pranaypatel_) &nbsp;&nbsp;
 [<img src="https://github.com/pranaypatel512/pranaypatel512/blob/master/social/linkedin.svg" height="22" width="22">](https://www.linkedin.com/in/pranaypatel512/) &nbsp;&nbsp;
 [<img src="https://github.com/pranaypatel512/pranaypatel512/blob/master/social/medium.svg" height="22" width="22">](https://medium.com/@pranaypatel) &nbsp;&nbsp;
-[<img src="https://github.com/pranaypatel512/pranaypatel512/blob/master/social/stackoverflow.svg" height="22" width="22">](https://twitter.com/pranaypatel_) &nbsp;&nbsp;
+[<img src="https://github.com/pranaypatel512/pranaypatel512/blob/master/social/stackoverflow.svg" height="22" width="22">](https://stackoverflow.com/users/2949612/pranay) &nbsp;&nbsp;
 
 <br>
 
