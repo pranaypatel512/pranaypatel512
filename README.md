@@ -15,7 +15,6 @@
 * ☕ Tea lover
 
 * 👨‍🍳 Love to prepares food in my leisure time.
-<br>
 
 ## What I am doing
 
@@ -24,8 +23,6 @@
 * 🙌 I mainly do work on about Android, Kotlin, Firebase, BLE and custom hardware apps . I currently learning Flutter. Public Speaker 🗣️
 
 * 📫  Drop an email on iampranaypatel@gmail.com
-
-<br>
 
 ## Social
 
