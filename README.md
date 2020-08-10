@@ -20,7 +20,7 @@
 
 * ✒️ I write stuff at [booleancoder.com](https://booleancoder.com/) and [Medium](https://medium.com/@pranaypatel).
 
-* 🙌 I mainly do work on about Android, Kotlin, Firebase, BLE and custom hardware apps . I currently learning Flutter. Public Speaker 🗣️
+* 🙌 I mainly do work on Android, Kotlin, Firebase, BLE and custom hardware apps . I currently learning Flutter. Public Speaker 🗣️
 
 * 📫  Drop an email on iampranaypatel@gmail.com
 
