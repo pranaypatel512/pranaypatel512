@@ -10,8 +10,6 @@
 
 * 👨‍ I’m an Android Engineer, living in Ahmedabad.
 
-* 💻 I am a part of the Android team at [Simform](https://www.simform.com/)
-
 * ☕ Tea lover
 
 * 👨‍🍳 Love to prepares food in my leisure time.
