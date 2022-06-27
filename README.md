@@ -41,7 +41,7 @@
 ### GitHub Stats
 
 <p float="middle">
-  <img align="left" alt="Pranay's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pranaypatel512&show_icons=true&hide_border=true&card_width=300" /> 
+  <img align="left" alt="Pranay's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pranaypatel512&show_icons=true&hide_border=true&card_width=300" /> &nbsp; &nbsp; &nbsp;
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaypatel512&layout=compact&hide_title=1&card_width=300&show_icons=true" alt="Top language used in my repos" />
 </p>
 
