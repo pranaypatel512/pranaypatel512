@@ -18,7 +18,7 @@
 
 * ✒️ I write stuff at [Medium](https://medium.com/@pranaypatel).
 
-* 🙌 I mainly do work on Android, Kotlin, Firebase, BLE and custom hardware apps . I currently learning Flutter. Public Speaker 🗣️
+* 🙌 I mainly do work on Android, Kotlin, Flutter, Firebase, BLE and custom hardware apps. Public Speaker 🗣️
 
 * 📫  Drop an email on iampranaypatel@gmail.com
 
