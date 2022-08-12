@@ -10,7 +10,7 @@
 
 ### 📃 About me
 
-* 💼 Senior Software Engineer.
+* 💼 Android Engineer.
 
 * 👨🏻‍💻 Open-source enthusiast. 
 
