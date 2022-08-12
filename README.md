@@ -10,7 +10,7 @@
 
 ### 📃 About me
 
-* 💼 Android Engineer.
+* 💼 Software Engineer - Android.
 
 * 👨🏻‍💻 Open-source enthusiast. 
 
