@@ -44,3 +44,7 @@
 
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaypatel512&layout=compact&hide_title=1&card_width=300&show_icons=true" alt="Top language used in my repos" />
   
+
+### Badges Board
+
+[![@pranaypatel's Holopin board](https://holopin.me/pranaypatel)](https://holopin.io/@pranaypatel)
