@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=pranaypatel512&color=brightgreen&style=flat)
 
  <p align="center">
-    <img height="200px" width="200px" src="https://github.com/pranaypatel512/pranaypatel512/blob/master/social/pranay_photo.svg" >
+    <img height="200px" width="200px" src="https://user-images.githubusercontent.com/10808436/209355175-23c2a87e-75d6-4ac1-8dd5-ebe724e42674.png" >
   <br>  <br>
   <b><i>Try it out, improve it, practice more and have fun! ✌️ </i></b> 
  </p>
@@ -16,16 +16,17 @@
 
 * ☕ Tea lover, 
 
-* Tech savvy and self motivated person.
-
 ### What I am doing
 
 * ✒️ I write stuff at [Medium](https://medium.com/@pranaypatel).
 
-* 🙌 I mainly do work on Android, Kotlin, Flutter, Firebase, BLE and custom hardware apps. Public Speaker 🗣️
+* 🙌 I mainly do work on Android, Kotlin, Flutter, Firebase, BLE and custom hardware apps.
 
-* 👨‍🍳 Farming, Cooking, Travelling, Investing
+* 🗣️ Public Speaker 
 
+* 👨‍🍳 Farming, Cooking, Travelling
+
+* OpenSource, blogger, Tech savvy & self motivated equity investor | An Ordinary Taxpayer
 
 ### Social
 
@@ -48,3 +49,4 @@
 ### Badges Board
 
 [![@pranaypatel's Holopin board](https://holopin.me/pranaypatel)](https://holopin.io/@pranaypatel)
+
