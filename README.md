@@ -10,14 +10,13 @@
 
 ### 📃 About me
 
-* 💼 Software Engineer - Android @mutualmobile . 💻 Open-source enthusiast.
+* 💼 Senior Software Engineer - Android @mutualmobile . 💻 Open-source enthusiast.
 
 
 ### What I am doing
 
 * 🙌 I mainly do work on Android, Flutter and Kotlin Multiplatform and some time on BLE, custom hardware also.
 * ✒️ I write stuff at [Medium](https://medium.com/@pranaypatel).
-
 
 * 🗣️ Public Speaker 
 
