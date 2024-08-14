@@ -10,7 +10,7 @@
 
 ### 📃 About me
 
-* 💼 Senior Software Engineer - Android @mutualmobile . 💻 Open-source enthusiast.
+* 💼 Senior Software Engineer (#Android & #Flutter) @mutualmobile | 💻 Open-source enthusiast | 25k+ Reputation on Stackoverflow | #KotlinMultiplatform | CI-CD | Design | #Architect Mobile Platform | Cyber Security Aspirant
 
 
 ### What I am doing
